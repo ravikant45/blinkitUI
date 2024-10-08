@@ -12,6 +12,7 @@ module.exports = {
           "@navigation":'./src/navigation',
           "@components":'./src/components',
           "@style":'./src/style',
+          "@state":'./src/state',
           "@service":'./src/service',
           "@utils":'./src/utils'
         }

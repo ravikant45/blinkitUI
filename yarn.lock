@@ -4719,10 +4719,10 @@ react-native-linear-gradient@^2.8.3:
   resolved "https://registry.npmjs.org/react-native-linear-gradient/-/react-native-linear-gradient-2.8.3.tgz"
   integrity sha512-KflAXZcEg54PXkLyflaSZQ3PJp4uC4whM7nT/Uot9m0e/qxFV3p6uor1983D1YOBJbJN7rrWdqIjq0T42jOJyA==
 
-react-native-mmkv@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.npmjs.org/react-native-mmkv/-/react-native-mmkv-2.9.0.tgz"
-  integrity sha512-6nA9bn95N9DkIar2Opm4h46JKFDUJbPUpV0P//Bn3Q/wbGP6T8w5y7D4ezFVv5ESkkIrh7ARbEUGw8rlLCsHPw==
+react-native-mmkv@^2.8.0:
+  version "2.8.0"
+  resolved "https://registry.npmjs.org/react-native-mmkv/-/react-native-mmkv-2.8.0.tgz"
+  integrity sha512-sfI2uzr5UCz7jS6QxIWnC7AbIuoIw9T7hDtsw0ohSlIdCABPoORPu8xpOSZN2bMkK7Z7sMQwLeP73uBXu0A3jw==
 
 react-native-pager-view@^6.4.1:
   version "6.4.1"
